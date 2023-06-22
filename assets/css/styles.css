@@ -354,7 +354,7 @@ svg {
 }
 
 .about__description {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .about__image {
@@ -773,7 +773,7 @@ svg {
   }
   
   .home__description {
-    margin-block: 1.5rem 2.5rem;
+    margin-block: 2rem 3rem;
   }
 
   .home__social {
